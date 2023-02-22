@@ -4,7 +4,7 @@ function Avatar() {
       className="avatar"
       src="https://i.imgur.com/1bX5QH6.jpg"
       alt="Lin Lanying"
-      width={350}
+      width={100}
       height={100}
     />
   );
